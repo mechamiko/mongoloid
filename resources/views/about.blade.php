@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('About us Tanginang laravel') }}</h1>
+                    <h1 class="m-0">{{ __('About us') }}</h1>
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -23,7 +23,7 @@
                   <img class="img-circle elevation-2" src="../dist/img/user7-128x128.jpg" alt="User Avatar">
                 </div>
                 <!-- /.widget-user-image -->
-                <h3 class="widget-user-username">puking ina mo miko</h3>
+                <h3 class="widget-user-username">puking ina mo yeki tarantado</h3>
                 <h5 class="widget-user-desc">Lead Developer</h5>
               </div>
               <div class="card-footer p-0">

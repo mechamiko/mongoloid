@@ -23,7 +23,7 @@
                   <img class="img-circle elevation-2" src="../dist/img/user7-128x128.jpg" alt="User Avatar">
                 </div>
                 <!-- /.widget-user-image -->
-                <h3 class="widget-user-username">puking ina mo yeki tarantado</h3>
+                <h3 class="widget-user-username">puking ina mo yeki tarantado anakputang laravel to parang miko animal</h3>
                 <h5 class="widget-user-desc">Lead Developer</h5>
               </div>
               <div class="card-footer p-0">
